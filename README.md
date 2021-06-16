@@ -11,6 +11,10 @@
         <h2>
         The installation
         </h2>
-        
+        <p> VS code </p>
+        <h2> Configuration </h2>
+        <p> Set a database to store the user's information </p>
+        <h2> Execution </h2>
+        <p> After someone log in his/her account, the server can check if this account is existed in database or not. </p>
        
 </html>
