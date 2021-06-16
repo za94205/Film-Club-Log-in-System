@@ -8,6 +8,9 @@
         <p>
         Basically focus on HTML, and PHP
         </p>
+        <h2>
+        The installation
+        </h2>
         
        
 </html>
